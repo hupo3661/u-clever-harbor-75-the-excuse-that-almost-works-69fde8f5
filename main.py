@@ -3,7 +3,8 @@
 
 Writes the one line a gamer texts the boss to skip work on GTA 6
 launch week to $MAKEFUN_OUTPUT_DIR/entry.txt (the grader sets it to
-/output/entry.txt). One line, 105 characters, 19 words, no trailing
+/output/entry.txt). One line, 105 characters, 19 words — inside the
+gate of 1–140 characters and at most 20 words — no trailing
 newline so the file holds exactly the message.
 """
 
